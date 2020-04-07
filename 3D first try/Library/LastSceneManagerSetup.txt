@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CubeMove.unity
+  isLoaded: 1
+  isActive: 1
